@@ -1,0 +1,10 @@
+References 
+
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+- https://towardsdatascience.com/wide-to-long-data-how-and-when-to-use-pandas-melt-stack-and-wide-to-long-7c1e0f462a98
+- https://numpy.org/doc/stable/reference/generated/numpy.ndarray.tolist.html
+- https://stackoverflow.com/questions/49263437/how-to-get-value-of-a-column-based-on-the-maximum-of-another-column-in-case-of-d
+- https://stackoverflow.com/questions/19392226/attributeerror-dataframe-object-has-no-attribute
+- https://sparkbyexamples.com/pandas/pandas-split-column/
+- https://usbrandcolors.com/netflix-colors/
