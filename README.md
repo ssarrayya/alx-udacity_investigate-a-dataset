@@ -7,3 +7,6 @@ I chose the TMDb movie dataset option where I analyzed over 10,000 rows of movie
     - The most popular genres over the years 
     - The most popular production companies over the years 
     - The factors that most likely influence the revenue generated 
+
+
+- [Wrangle and Analyze Data - WeRateDogs Twitter Analysis](https://github.com/ssarrayya/alx-udacity_projects/tree/main/WeRateDogs_analysis)
