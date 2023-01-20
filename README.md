@@ -15,3 +15,6 @@ I wrangled datasets gathered from 3 different sources and in 3 different file fo
     - Top 5 breeds in the first predictions by the neural network
     - Relationship between the ratings and favourite count
     - Relationship between the number of images and retweet count
+
+- [Data Visualization]()
+Starting soon...
